@@ -15,4 +15,4 @@ This report begins by outlining the research question, defining its scope, and c
 
 Throughout, data visualizations illustrate key trends and support the analysis.
 
-Note: Work in progress; official files will be uploaded shortly. 
+*Note: Work in progress; official files will be uploaded shortly.* 
