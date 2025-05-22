@@ -6,7 +6,7 @@ My project centers on the gender wage gap and seeks to examine its persistent na
 ## Project Description 
 This project consolidates data from multiple official sources to explore key drivers of the gender wage gap, integrating research, analysis, and design elements for impact and clarity.
 
-Visualizations come from organizations such as the [Economic Policy Institute (EPI)](epi.gov) and the [Bureau of Labor Statistics (BLS)](bls.goc). Each figure will be accompanied by a caption and source attribution (APA 7th ed.). Design elements include infographics, embedded visuals, and summary slides. 
+Visualizations come from organizations such as the [Economic Policy Institute (EPI)](epi.org) and the [Bureau of Labor Statistics (BLS)](bls.gov). Each figure will be accompanied by a caption and source attribution (APA 7th ed.). Design elements include infographics, embedded visuals, and summary slides. 
 
 Mediums include Google Suite (Docs) for writing, Canva and Adobe Creative Suite for design, as well as reporting software such as Adobe Acrobat. 
 
