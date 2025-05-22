@@ -1,7 +1,7 @@
 # The Gender Wage Gap
 This repository contains the final project for WRIT 105M (Multimedia Writing) taken at UCSB. Students perform an in-depth analysis on a topic of their choosing, applying course concepts such as research, writing, and multimedia design. 
 
-My project centers on the gender wage gap, the disparity in pay between men and women, and seeks to investigate its persistent nature. To this end, I survey the existing body of research, analyze its key determinants, and present a detailed report of my findings.  
+My project centers on the gender wage gap and seeks to investigate its persistent nature. To this end, I survey the existing body of research, analyze its key determinants, and present a detailed report of my findings.  
 
 ## Project Description 
 This project consolidates research from multiple official sources to explore key drivers of the gender wage gap, integrating formal writing, analysis, and design elements for impact and clarity. 
