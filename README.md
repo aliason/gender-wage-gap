@@ -11,7 +11,7 @@ Visualizations come from organizations such as the [Economic Policy Institute (E
 Mediums include Google Suite (Docs) for writing, Canva and Adobe Creative Suite for design, as well as reporting software such as Adobe Acrobat. 
 
 ## Project Roadmap 
-This report begins by outlining the research question, defining its scope, and clarifying goals and limitations. It then provides a thorough background of the gender wage gap, followed by an analysis of its short- and long-term implications. Next, it assesses previous policy efforts before concluding with data-driven recommendations and reflections on methodology and future research directions. 
+This report begins by outlining the research question, defining its scope, and clarifying goals and limitations. It then provides a thorough background of the gender wage gap, followed by an analysis of its short- and long-term implications. Next, it assesses previous policy efforts before concluding with reflections, insights, and recommendations for future analysis. 
 
 Throughout, data visualizations illustrate key trends and support the analysis.
 
